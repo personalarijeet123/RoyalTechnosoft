@@ -6,4 +6,6 @@ Gradient Descent:https://colab.research.google.com/drive/1pmUoI2xXhzJ-bbGS6kVOqf
 
 BackPropogation: https://colab.research.google.com/drive/1cPOEdOlqQPiqWgGArWgIgBRKEFs6FLeT?authuser=3#scrollTo=-yG-3eUlP0e6
 
+Momentum and NAG : https://colab.research.google.com/drive/1-AA_mGsXpRyWtUqrj_6BraCd8GdXmBrG?authuser=3#scrollTo=i5jr8OM5fgdQ
+
 
