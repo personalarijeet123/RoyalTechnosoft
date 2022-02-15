@@ -8,4 +8,5 @@ BackPropogation: https://colab.research.google.com/drive/1cPOEdOlqQPiqWgGArWgIgB
 
 Momentum and NAG : https://colab.research.google.com/drive/1-AA_mGsXpRyWtUqrj_6BraCd8GdXmBrG?authuser=3#scrollTo=i5jr8OM5fgdQ
 
+Activation Functions, Simple Neural Network , Loss Functions : https://colab.research.google.com/drive/1oQ6cNw5HLfCSePYNMCHHkj1qaTi5fvnS?authuser=3
 
