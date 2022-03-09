@@ -10,4 +10,8 @@ Momentum and NAG :  https://colab.research.google.com/drive/1-AA_mGsXpRyWtUqrj_6
 
 Activation Functions, Simple Neural Network , Loss Functions :  https://colab.research.google.com/drive/1oQ6cNw5HLfCSePYNMCHHkj1qaTi5fvnS?usp=sharing
 
+RNN_LSTM : https://colab.research.google.com/drive/1seB_kw7jECu2jCAc2zxxlMM1P6rtTHTl?usp=sharing 
+
+RNN_GRU : https://colab.research.google.com/drive/160mZizkSinzmvCFhukOCnuYgztEzcOOl?usp=sharing
+
 CNN : https://colab.research.google.com/drive/1lm4kbsOo53nprcgijpKxjL0g2oVjq3UE?usp=sharing
