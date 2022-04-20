@@ -1,5 +1,7 @@
 # 
 
+Linear_regression_Tetuan City power consumption : https://colab.research.google.com/drive/1Iy-W5rtNSnrJnc2KH2MIWBDcnbn17_7N?usp=sharing    
+
 Perceptron : https://colab.research.google.com/drive/1ATe0x8BrJXj66frXOkEBtehqIwp4ghnN?usp=sharing#scrollTo=pfDYhriCGtrp
 
 Gradient Descent: https://colab.research.google.com/drive/1pmUoI2xXhzJ-bbGS6kVOqfdemD7aCT_6?usp=sharing
